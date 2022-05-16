@@ -1,4 +1,6 @@
 <script>
+	import OldFooter from '../components/OldFooter.svelte';
+	import OldWebsite from '../components/OldWebsite.svelte';
 	import TextWithinLine from '../components/TextWithinLine.svelte';
 </script>
 
@@ -16,5 +18,9 @@
 				</div>
 			</div>
 		</div>
+		<div class="bg-white">
+			<OldWebsite />
+		</div>
+		<OldFooter />
 	</div>
 </div>
