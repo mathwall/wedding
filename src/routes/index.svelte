@@ -1,4 +1,5 @@
 <script>
+	import Navbar from '../components/Navbar.svelte';
 	import OldFooter from '../components/OldFooter.svelte';
 	import OldWebsite from '../components/OldWebsite.svelte';
 	import TextWithinLine from '../components/TextWithinLine.svelte';
@@ -11,6 +12,7 @@
 		bg-no-repeat bg-cover bg-center bg-[url('/us.jpg')]
 		 shadow-2xl"
 		>
+			<Navbar />
 			<div class="flex flex-col justify-end align-middle w-full h-screen bg-black/20 text-white">
 				<div class="flex flex-col align-middle pb-[7em]">
 					<div class="text-8xl text-center">Mathilde et Nicolas</div>
