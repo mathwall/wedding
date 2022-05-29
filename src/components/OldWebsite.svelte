@@ -5,7 +5,7 @@
 <div class="container">
 	<div class="section church">
 		<div class="subsection sans">
-			<div>15h - Cérémonie</div>
+			<div>14h30 - Cérémonie</div>
 			<div class="cursive big">Abbaye de Saint-Jean-aux-Bois</div>
 		</div>
 		<div class="polaroid">
@@ -22,7 +22,7 @@
 		<div class="subsection sans">
 			<div>18h - Réception</div>
 			<div class="cursive big">Domaine du <span>Bois Saint-Mard</span></div>
-			<div>11 Rue du Maréchal Leclerc, 60170&nbspTracy‑le‑Val</div>
+			<div>11 Rue du Maréchal Leclerc, 60170 Tracy‑le‑Val</div>
 		</div>
 	</div>
 </div>
@@ -36,34 +36,11 @@
 		</div>
 		<div class="accomodation-list">
 			<div class="accomodation">
-				<div class="accomodation-name">La Belle Hourde</div>
-				<div class="accomodation-type">Meublés et gîtes</div>
-				<div class="accomodation-city">Carlepont</div>
-				<hr />
-				<a
-					class="accomodation-site"
-					href="https://www.gites-de-france-oise.fr/location-Gite-Carlepont-Oise-60G1025.html"
-				>
-					Site web
-				</a>
-				<div class="accomodation-contact">03 23 81 10 24</div>
-				<div class="accomodation-contact">06 09 36 15 09</div>
-			</div>
-			<div class="accomodation">
 				<div class="accomodation-name">Chez Colette</div>
 				<div class="accomodation-type">Chambres d’hôtes</div>
 				<div class="accomodation-city">Pont-l'Évêque</div>
 				<hr />
 				<div class="accomodation-contact">03 44 43 04 27</div>
-			</div>
-			<div class="accomodation">
-				<div class="accomodation-name">La Maison bleue</div>
-				<div class="accomodation-type">Chambres d’hôtes</div>
-				<div class="accomodation-city">Tracy le Mont</div>
-				<hr />
-				<a class="accomodation-site" href="http://www.chambredhotes-tracy-oise.fr"> Site web </a>
-				<div class="accomodation-contact">03 44 36 78 30</div>
-				<div class="accomodation-contact">06 64 28 12 22</div>
 			</div>
 			<div class="accomodation">
 				<div class="accomodation-name">Un air de campagne</div>
@@ -110,6 +87,7 @@
 				</a>
 				<div class="accomodation-contact">03 44 09 72 57</div>
 				<div class="">à 11 minutes du domaine en voiture</div>
+				<div class="text-red-600 font-semibold">Plus de places disponibles le 24/09</div>
 			</div>
 		</div>
 	</div>
