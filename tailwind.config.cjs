@@ -5,8 +5,8 @@ module.exports = {
       center: true,
     },
     fontFamily: {
-      sans: ['Great Vibes', 'sans-serif'],
-      serif: ['Raleway', 'serif'],
+      sans: ['Raleway', 'sans-serif'],
+      cursive: ['Great Vibes', 'serif'],
     },
     extend: {}
   },

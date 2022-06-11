@@ -4,6 +4,7 @@
 
 <div class="container">
 	<div class="section church">
+		<a id="planning" />
 		<div class="subsection sans">
 			<div>14h30 - Cérémonie</div>
 			<div class="cursive big">Abbaye de Saint-Jean-aux-Bois</div>
@@ -28,8 +29,9 @@
 </div>
 <div class="info-section">
 	<div class="info-section">
-		<div class="info-section-title big">Logements à proximité</div>
-		<div class="accomodation-text">
+		<a id="accomodation" />
+		<div class="info-subsection-title">Logements à proximité</div>
+		<div class="info-subsection-block">
 			Vous trouverez ci-dessous quelques propositions de logement. <br />
 			N'hésitez pas à nous signaler si l'un de ces logements n'est plus disponible, nous l'enlèverons
 			de la liste.
@@ -111,32 +113,43 @@ https://www.booking.com/hotel/fr/le-moulin-pontoise-les-noyon.fr.html
 -->
 
 <div class="info-section">
-	<!-- <div class="info-section-title big">
-        Pratique
-      </div> -->
 	<div class="info-subsection">
+		<a id="theme" />
 		<div class="info-subsection-title">Thème</div>
 		<div class="info-subsection-list">
 			<img class="info-subsection-block" src="example-1.png" />
 			<div class="info-subsection-block">
 				Pas de thème ni de couleurs imposés. Vous pouvez vous inspirer des photos ci-contre si vous
-				le souhaitez. Plutôt champêtre, avec des fleurs, des plantes. Suggestions de couleurs :
-				rouge (bordeaux), jaune blé, vert
+				le souhaitez. Plutôt champêtre, avec des fleurs (si vous le souhaitez) et des couleurs pas
+				trop flashy !
 			</div>
 			<img class="info-subsection-block" src="example-2.jpg" />
 			<img class="info-subsection-block" src="example-3.jpg" />
 		</div>
 	</div>
 	<div class="info-subsection">
+		<a id="children" />
+		<div class="info-subsection-title">Et les enfants ?</div>
+		<div class="info-subsection-list">
+			<div class="info-subsection-block">
+				Nous prévoyons un baby sitter pour prendre soin de nos marmots ! Il existe un bâtiment isolé
+				appelé "Maison des enfants" dans le domaine du Bois Saint-Mard, où ils pourront s'amuser au
+				calme.
+			</div>
+			<img class="max-w-sm" src="balloon.png" />
+		</div>
+	</div>
+	<div class="info-subsection">
+		<a id="gifts" />
 		<div class="info-subsection-title">Cadeaux</div>
 		<div class="info-subsection-list">
-			<img class="info-subsection-block" src="japon-2.jpg" />
+			<!-- <img class="info-subsection-block" src="japon-2.jpg" /> -->
 			<img class="info-subsection-block" src="japon-wide.jpg" />
 			<div class="info-subsection-block">
-				Nous allons partir au Japon pour notre voyage de noces. Plutôt que de faire une liste de
+				Nous aimerions nous envoler pour le Japon. Plutôt que de faire une liste de
 				mariage, nous préférons donc vous proposer de nous aider à financer à ce beau voyage.
 			</div>
-			<img class="info-subsection-block" src="japon-3.jpeg" />
+			<!-- <img class="info-subsection-block" src="japon-3.jpeg" /> -->
 		</div>
 	</div>
 </div>

@@ -152,7 +152,7 @@ margin-top: 2em;
 
 .info-subsection-list {
   display: flex;
-
+  align-items: center;
 }
 
 .info-subsection-block {
