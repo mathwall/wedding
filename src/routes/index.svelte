@@ -2,6 +2,7 @@
 	import Navbar from '../components/Navbar.svelte';
 	import OldFooter from '../components/OldFooter.svelte';
 	import OldWebsite from '../components/OldWebsite.svelte';
+	import PhotosLink from '../components/PhotosLink.svelte';
 	import TextWithinLine from '../components/TextWithinLine.svelte';
 </script>
 
@@ -20,6 +21,7 @@
 				</div>
 			</div>
 		</div>
+		<PhotosLink />
 		<div class="bg-white">
 			<OldWebsite />
 		</div>
